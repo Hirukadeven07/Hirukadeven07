@@ -61,22 +61,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hiruka's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hirukadeven07&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hirukadeven07&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hirukadeven07&theme=tokyonight&hide_border=true)
-
-</div>
 <!--
 **Hirukadeven07/Hirukadeven07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
