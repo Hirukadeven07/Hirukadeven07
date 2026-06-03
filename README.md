@@ -2,8 +2,6 @@
   <img src="profilebanner.PNG" alt="Profile Banner" width="100%" />
 </div>
 
-<br/>
-
 <div align="center">
   <h1> I'm Hiruka Devendra</h1>
 
