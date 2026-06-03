@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h1> Hi 👋, I'm Hiruka Devendra</h1>
+  <h1> I'm Hiruka Devendra</h1>
 
   <p>
     🎓 Learning <strong>Artificial Intelligence</strong> & <strong>Data Science</strong> <br/>
