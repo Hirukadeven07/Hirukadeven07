@@ -8,7 +8,7 @@
   <p>
     🎓 Learning <strong>Artificial Intelligence</strong> & <strong>Data Science</strong> <br/>
     🤖 Machine Learning enthusiast passionate about intelligent systems <br/>
-    🔗 Interested in building <strong>Agentic AI</strong> systems that think and act
+    🔗 Interested in building <strong>Agentic AI</strong> systems that think and act.
   </p>
 </div>
 
